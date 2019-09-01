@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.1",
+  "description": "Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/personpro/server.git"
+  },
+  "keywords": [
+    "server",
+    "chatserver",
+    "gameserver",
+    "webserver"
+  ],
+  "author": "Personpro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/personpro/server/issues"
+  },
+  "homepage": "https://github.com/personpro/server#readme"
+}
